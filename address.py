@@ -1,0 +1,10 @@
+name = input ("Enter your name:" )
+address = input ("Enter your street address:")
+city = input ("Enter your city:")
+state = input ("Enter your state:")
+phone = input ("Enter your phone number:")
+
+print(name)
+print(address)
+print(city + state)
+print(phone)
